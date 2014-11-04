@@ -1,0 +1,254 @@
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.exe.config
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.exe
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.pdb
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\bin\Debug\ScintillaNET.dll
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\bin\Debug\ScintillaNET.pdb
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\bin\Debug\ScintillaNET.xml
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.Properties.Resources.resources
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.exe
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_4\appSqliteManagerPro\bin\Debug\appSqliteAdmin.exe.config
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_4\appSqliteManagerPro\bin\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_4\appSqliteManagerPro\bin\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_4\appSqliteManagerPro\bin\Debug\ScintillaNET.dll
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_4\appSqliteManagerPro\bin\Debug\ScintillaNET.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_4\appSqliteManagerPro\bin\Debug\ScintillaNET.xml
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_4\appSqliteManagerPro\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_4\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_4\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_4\appSqliteManagerPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_4\appSqliteManagerPro\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_4\appSqliteManagerPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_4\appSqliteManagerPro\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_4\appSqliteManagerPro\obj\x86\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_4\appSqliteManagerPro\obj\x86\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_4\appSqliteManagerPro\obj\x86\Debug\appSqliteAdmin.Properties.Resources.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteManagerPro\bin\Debug\appSqliteAdmin.exe.config
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteManagerPro\obj\x86\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteManagerPro\obj\x86\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe.config
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteAdmin\bin\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteAdmin\bin\Debug\ScintillaNET.dll
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteAdmin\bin\Debug\ScintillaNET.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteAdmin\bin\Debug\ScintillaNET.xml
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.Properties.Resources.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maykol\Desktop\appSqliteAdmin\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe.config
+C:\Users\Maykol\Desktop\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.exe
+C:\Users\Maykol\Desktop\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.pdb
+C:\Users\Maykol\Desktop\appSqliteAdmin\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe
+C:\Users\Maykol\Desktop\appSqliteAdmin\appSqliteAdmin\bin\Debug\appSqliteAdmin.pdb
+C:\Users\Maykol\Desktop\appSqliteAdmin\appSqliteAdmin\bin\Debug\ScintillaNET.pdb
+C:\Users\Maykol\Desktop\appSqliteAdmin\appSqliteAdmin\bin\Debug\ScintillaNET.xml
+C:\Users\Maykol\Desktop\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maykol\Desktop\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+C:\Users\Maykol\Desktop\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+C:\Users\Maykol\Desktop\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.Properties.Resources.resources
+C:\Users\Maykol\Desktop\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Maykol\Desktop\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maykol\Desktop\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Maykol\Desktop\appSqliteAdmin\appSqliteAdmin\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_5\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe.config
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_5\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_5\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_5\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_5\appSqliteAdmin\bin\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_5\appSqliteAdmin\bin\Debug\ScintillaNET.dll
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_5\appSqliteAdmin\bin\Debug\ScintillaNET.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_5\appSqliteAdmin\bin\Debug\ScintillaNET.xml
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_5\appSqliteAdmin\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_5\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_5\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_5\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.Properties.Resources.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_5\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_5\appSqliteAdmin\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_5\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_5\appSqliteAdmin\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_6\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe.config
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_6\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_6\appSqliteAdmin\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_6\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_6\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_6\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.Properties.Resources.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_6\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_6\appSqliteAdmin\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_6\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_6\appSqliteAdmin\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_6\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_6\appSqliteAdmin\bin\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_6\appSqliteAdmin\bin\Debug\ScintillaNET.dll
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_6\appSqliteAdmin\bin\Debug\ScintillaNET.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_6\appSqliteAdmin\bin\Debug\ScintillaNET.xml
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_6\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_7\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe.config
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_7\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_7\appSqliteAdmin\bin\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_7\appSqliteAdmin\bin\Debug\ScintillaNET.dll
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_7\appSqliteAdmin\bin\Debug\ScintillaNET.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_7\appSqliteAdmin\bin\Debug\ScintillaNET.xml
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.Properties.Resources.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maykol\Desktop\appSqliteAdmin_7\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe.config
+C:\Users\Maykol\Desktop\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.exe
+C:\Users\Maykol\Desktop\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.pdb
+C:\Users\Maykol\Desktop\appSqliteAdmin_7\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe
+C:\Users\Maykol\Desktop\appSqliteAdmin_7\appSqliteAdmin\bin\Debug\appSqliteAdmin.pdb
+C:\Users\Maykol\Desktop\appSqliteAdmin_7\appSqliteAdmin\bin\Debug\ScintillaNET.pdb
+C:\Users\Maykol\Desktop\appSqliteAdmin_7\appSqliteAdmin\bin\Debug\ScintillaNET.xml
+C:\Users\Maykol\Desktop\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maykol\Desktop\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+C:\Users\Maykol\Desktop\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+C:\Users\Maykol\Desktop\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.Properties.Resources.resources
+C:\Users\Maykol\Desktop\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Maykol\Desktop\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maykol\Desktop\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Maykol\Desktop\appSqliteAdmin_7\appSqliteAdmin\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_8\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe.config
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_8\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_8\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_8\appSqliteAdmin\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_8\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_8\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_8\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.Properties.Resources.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_8\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_8\appSqliteAdmin\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_8\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_8\appSqliteAdmin\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_8\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_8\appSqliteAdmin\bin\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_8\appSqliteAdmin\bin\Debug\ScintillaNET.dll
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_8\appSqliteAdmin\bin\Debug\ScintillaNET.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_8\appSqliteAdmin\bin\Debug\ScintillaNET.xml
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_9\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe.config
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_9\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_9\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_9\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_9\appSqliteAdmin\bin\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_9\appSqliteAdmin\bin\Debug\ScintillaNET.dll
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_9\appSqliteAdmin\bin\Debug\ScintillaNET.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_9\appSqliteAdmin\bin\Debug\ScintillaNET.xml
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_9\appSqliteAdmin\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_9\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_9\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_9\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.Properties.Resources.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_9\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_9\appSqliteAdmin\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_9\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_9\appSqliteAdmin\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_10\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe.config
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_10\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_10\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_10\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_10\appSqliteAdmin\bin\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_10\appSqliteAdmin\bin\Debug\ScintillaNET.dll
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_10\appSqliteAdmin\bin\Debug\ScintillaNET.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_10\appSqliteAdmin\bin\Debug\ScintillaNET.xml
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_10\appSqliteAdmin\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_10\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_10\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_10\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.Properties.Resources.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_10\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_10\appSqliteAdmin\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_10\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_10\appSqliteAdmin\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_11\appSqliteAdmin_11\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe.config
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_11\appSqliteAdmin_11\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_11\appSqliteAdmin_11\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_11\appSqliteAdmin_11\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_11\appSqliteAdmin_11\appSqliteAdmin\bin\Debug\appSqliteAdmin.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_11\appSqliteAdmin_11\appSqliteAdmin\bin\Debug\ScintillaNET.dll
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_11\appSqliteAdmin_11\appSqliteAdmin\bin\Debug\ScintillaNET.pdb
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_11\appSqliteAdmin_11\appSqliteAdmin\bin\Debug\ScintillaNET.xml
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_11\appSqliteAdmin_11\appSqliteAdmin\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_11\appSqliteAdmin_11\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_11\appSqliteAdmin_11\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_11\appSqliteAdmin_11\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.Properties.Resources.resources
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_11\appSqliteAdmin_11\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_11\appSqliteAdmin_11\appSqliteAdmin\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_11\appSqliteAdmin_11\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Programacion Software\SQlite Administrator\appSqliteAdmin_11\appSqliteAdmin_11\appSqliteAdmin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe.config
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.exe
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.pdb
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\appSqliteAdmin\bin\Debug\appSqliteAdmin.pdb
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\appSqliteAdmin\bin\Debug\ScintillaNET.pdb
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\appSqliteAdmin\bin\Debug\ScintillaNET.xml
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\appSqliteAdmin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.Properties.Resources.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\appSqliteAdmin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\appSqliteAdmin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\A\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe.config
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\A\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.exe
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\A\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.pdb
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\A\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\A\appSqliteAdmin\bin\Debug\appSqliteAdmin.pdb
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\A\appSqliteAdmin\bin\Debug\ScintillaNET.pdb
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\A\appSqliteAdmin\bin\Debug\ScintillaNET.xml
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\A\appSqliteAdmin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\A\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\A\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\A\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.Properties.Resources.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\A\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\A\appSqliteAdmin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\A\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\12\A\appSqliteAdmin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\13\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe.config
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\13\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.exe
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\13\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.pdb
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\13\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\13\appSqliteAdmin\bin\Debug\appSqliteAdmin.pdb
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\13\appSqliteAdmin\bin\Debug\ScintillaNET.pdb
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\13\appSqliteAdmin\bin\Debug\ScintillaNET.xml
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\13\appSqliteAdmin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\13\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\13\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\13\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.Properties.Resources.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\13\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\13\appSqliteAdmin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\13\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\13\appSqliteAdmin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe.config
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.exe
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.pdb
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\bin\Debug\appSqliteAdmin.pdb
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\bin\Debug\ScintillaNET.pdb
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\bin\Debug\ScintillaNET.xml
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.Properties.Resources.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\x86\Debug\appSqliteAdmin.frmProcessing.resources

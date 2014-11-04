@@ -1,0 +1,8 @@
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\bin\Release\appSqliteAdmin.exe.config
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\Release\appSqliteManagerPro.Form1.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\Release\appSqliteManagerPro.frmAbout.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\Release\appSqliteAdmin.frmProcessing.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\Release\appSqliteAdmin.Properties.Resources.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\Release\GenerateResource.write.1.tlog

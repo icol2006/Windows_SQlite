@@ -1,0 +1,27 @@
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe.config
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\bin\Debug\appSqliteAdmin.pdb
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\bin\Debug\ScintillaNET.pdb
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\bin\Debug\ScintillaNET.xml
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\Debug\appSqliteManagerPro.Form1.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\Debug\appSqliteManagerPro.frmAbout.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\Debug\appSqliteAdmin.frmProcessing.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\Debug\appSqliteAdmin.Properties.Resources.resources
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\Debug\appSqliteAdmin.exe
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\obj\Debug\appSqliteAdmin.pdb
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe.config
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\obj\Debug\appSqliteAdmin.exe
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\obj\Debug\appSqliteAdmin.pdb
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\bin\Debug\appSqliteAdmin.exe
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\bin\Debug\appSqliteAdmin.pdb
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\bin\Debug\ScintillaNET.pdb
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\bin\Debug\ScintillaNET.xml
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\obj\Debug\appSqliteAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\obj\Debug\appSqliteManagerPro.Form1.resources
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\obj\Debug\appSqliteManagerPro.frmAbout.resources
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\obj\Debug\appSqliteAdmin.frmProcessing.resources
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\obj\Debug\appSqliteAdmin.Properties.Resources.resources
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\obj\Debug\appSqliteAdmin.csproj.GenerateResource.Cache

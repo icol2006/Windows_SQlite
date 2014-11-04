@@ -1,0 +1,1 @@
+C:\Users\Maykol\Google Drive\Desarrollo de software\C sharp\SqliteAdmin\14\appSqliteAdmin\bin\Release\appSqliteAdmin.exe.config

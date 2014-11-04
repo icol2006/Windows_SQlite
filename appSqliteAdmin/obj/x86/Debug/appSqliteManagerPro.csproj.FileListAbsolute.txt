@@ -1,0 +1,93 @@
+Z:\Desarrollo de Aplicaciones\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.exe
+Z:\Desarrollo de Aplicaciones\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.pdb
+Z:\Desarrollo de Aplicaciones\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Desarrollo de Aplicaciones\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+Z:\Desarrollo de Aplicaciones\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.Properties.Resources.resources
+Z:\Desarrollo de Aplicaciones\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Desarrollo de Aplicaciones\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Desarrollo de Aplicaciones\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.exe
+Z:\Desarrollo de Aplicaciones\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.pdb
+Z:\Desarrollo de Aplicaciones\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\System.Data.SQLite.dll
+Z:\Desarrollo de Aplicaciones\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.exe.config
+Z:\Desarrollo de Aplicaciones\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+Z:\Desarrollo de Aplicaciones\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Byco\Desktop\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.exe.config
+C:\Users\Byco\Desktop\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.exe
+C:\Users\Byco\Desktop\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.pdb
+C:\Users\Byco\Desktop\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.exe
+C:\Users\Byco\Desktop\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.pdb
+C:\Users\Byco\Desktop\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Byco\Desktop\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+C:\Users\Byco\Desktop\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.Properties.Resources.resources
+C:\Users\Byco\Desktop\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Byco\Desktop\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Byco\Desktop\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Byco\Desktop\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Byco\Desktop\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+F:\Programacion Codigo\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.exe.config
+F:\Programacion Codigo\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.exe
+F:\Programacion Codigo\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.pdb
+F:\Programacion Codigo\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion Codigo\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+F:\Programacion Codigo\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+F:\Programacion Codigo\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.Properties.Resources.resources
+F:\Programacion Codigo\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Programacion Codigo\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion Codigo\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Programacion Codigo\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion Codigo\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.exe
+F:\Programacion Codigo\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.pdb
+F:\Programacion Codigo\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\ScintillaNET.dll
+F:\Programacion Codigo\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\ScintillaNET.pdb
+F:\Programacion Codigo\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\ScintillaNET.xml
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.exe.config
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.exe
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.pdb
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.exe
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.pdb
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\ScintillaNET.dll
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\ScintillaNET.pdb
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\ScintillaNET.xml
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.Properties.Resources.resources
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_1\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.exe.config
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_1\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.exe
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_1\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.pdb
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_1\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.exe
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_1\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.pdb
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_1\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\ScintillaNET.dll
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_1\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\ScintillaNET.pdb
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_1\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\ScintillaNET.xml
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_1\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_1\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_1\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_1\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.Properties.Resources.resources
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_1\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_1\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_1\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_1\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.exe.config
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.exe
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.pdb
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.Form1.resources
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.frmAbout.resources
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.Properties.Resources.resources
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteManagerPro\appSqliteManagerPro\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.exe
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.pdb
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\ScintillaNET.dll
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\ScintillaNET.pdb
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteManagerPro\appSqliteManagerPro\bin\Debug\ScintillaNET.xml
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\bin\Debug\appSqliteManagerPro.exe.config
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.exe
+F:\Programacion Software\SQlite Administrator\SqliteManagerPro_2\appSqliteAdmin\appSqliteManagerPro\obj\x86\Debug\appSqliteManagerPro.pdb

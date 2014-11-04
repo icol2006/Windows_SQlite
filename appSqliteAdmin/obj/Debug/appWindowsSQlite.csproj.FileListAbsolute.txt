@@ -1,0 +1,15 @@
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\bin\Debug\WindowsSQlite.exe.config
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\bin\Debug\WindowsSQlite.exe
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\bin\Debug\WindowsSQlite.pdb
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\bin\Debug\ScintillaNET.pdb
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\bin\Debug\ScintillaNET.xml
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\obj\Debug\appSqliteManagerPro.Form1.resources
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\obj\Debug\appSqliteManagerPro.frmAbout.resources
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\obj\Debug\appSqliteAdmin.frmProcessing.resources
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\obj\Debug\WindowsSQlite.Properties.Resources.resources
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\obj\Debug\appWindowsSQlite.csproj.GenerateResource.Cache
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\obj\Debug\WindowsSQlite.exe
+C:\Users\Maykol\Documents\Desarrollo de software\SqliteAdmin\appSqliteAdmin\obj\Debug\WindowsSQlite.pdb
+C:\Users\Maykol\Documents\Desarrollo de software\Windows.SQlite\appSqliteAdmin\bin\Debug\WindowsSQlite.exe.config
+C:\Users\Maykol\Documents\Desarrollo de software\Windows.SQlite\appSqliteAdmin\obj\Debug\WindowsSQlite.exe
+C:\Users\Maykol\Documents\Desarrollo de software\Windows.SQlite\appSqliteAdmin\obj\Debug\WindowsSQlite.pdb
